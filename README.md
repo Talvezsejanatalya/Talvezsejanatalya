@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Natalya Valeska
-- 👀 I’m interested in computers and code
-- 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on all i can
-- 📫 natalya.oliveira09@gmail.com or +55(47)98902-5955
-<!---
-Hello dotcom.
---->
+🖥 Analista de Dados e desenvolvedora front-end
+
+🎓 Engenharia de Software na Faculdade Anhanguera
+
+📍 Joinville - SC
+
+🌟 Interessada em dados, tecnologia e desenvolvimento de softwares
+
+📈 Explorando insights com dados e aprendizado contínuo
+
+🤝 Aberta a colaborações em projetos desafiadores
+
