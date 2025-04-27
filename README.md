@@ -1,4 +1,4 @@
-🖥 Analista de Dados e desenvolvedora front-end
+🖥 Analista de Dados e Desenvolvedora Web
 
 🎓 Engenharia de Software na Faculdade Anhanguera
 
