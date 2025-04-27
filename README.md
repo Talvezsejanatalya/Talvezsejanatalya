@@ -6,7 +6,7 @@
 
 🌟 Interessada em dados, tecnologia e desenvolvimento de softwares
 
-📈 Explorando insights com dados e aprendizado contínuo
+📈 Explorando insights com dados, machine learning e e aprendizado contínuo.
 
 🤝 Aberta a colaborações em projetos desafiadores
 
